@@ -1,0 +1,7 @@
+streamlit
+tensorflow-cpu
+Pillow
+numpy
+plotly
+requests
+streamlit-lottie
